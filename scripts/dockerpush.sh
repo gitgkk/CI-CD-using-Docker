@@ -1,2 +1,2 @@
 sudo docker login --username=$username --password=$password
-sudo docker push gajendrakashyap/samplejavaapp:latest
+sudo docker push docker push gajendrakashyap/gk-docks:java-app
